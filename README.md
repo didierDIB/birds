@@ -1,7 +1,7 @@
 # Birds
 "API first" simple Spring Boot Web app , created with swaggerhub.com generator
 
-very initial work - v0.01 - 6 octobre
+very initial work - v0.10 - 7 octobre
 
 <!-- toc -->
 
